@@ -17,6 +17,8 @@
 
 📫 Reach out to me via <a href="https://www.linkedin.com/in/ayushi-aggarwal-938463194/">LinkedIn</a> or drop me an email at **ayushiaggarwal1101@gmail.com** and I would be happy to respond.
 
+<br/>
+
 # 🌐Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushiiaggarwall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushi-aggarwal-938463194) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ayushi0107) 
