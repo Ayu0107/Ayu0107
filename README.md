@@ -61,7 +61,8 @@
 
 # 🌐Connect With Me
 
-[![Instagram](![image](https://user-images.githubusercontent.com/62741870/174560528-b755760e-b637-44fb-a66c-547e6dbb2566.png))](https://instagram.com/ayushiiaggarwall) [![LinkedIn](![image](https://user-images.githubusercontent.com/62741870/174560725-12a62dda-ac9b-4ba6-bfff-e1dffd117d17.png))](https://linkedin.com/in/ayushi-aggarwal-938463194) [![Twitter](![image](https://user-images.githubusercontent.com/62741870/174560596-26f7597a-d6df-4a1f-8f7c-fe0b6c845d41.png))](https://twitter.com/ayushi0107) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushiiaggarwall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushi-aggarwal-938463194) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ayushi0107) 
+
 
 
 <img width="1100" src="https://user-images.githubusercontent.com/62741870/174556394-a6cc3313-10ef-4af4-abf3-0e4f41eda38f.png">
