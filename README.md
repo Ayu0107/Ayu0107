@@ -17,13 +17,10 @@
 
 📫 Reach out to me via <a href="https://www.linkedin.com/in/ayushi-aggarwal-938463194/">LinkedIn</a> or drop me an email at **ayushiaggarwal1101@gmail.com** and I would be happy to respond.
 
-<br/>
-
 # 🌐Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushiiaggarwall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushi-aggarwal-938463194) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ayushi0107) 
 
-<br/>
 
 # 💻Languages and Tools
 
@@ -59,8 +56,6 @@
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="90" height="90" style="display:inline-block; margin:10px;"/>
 
 </span>
-
-<br/>
 
 # 📊GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=ayu0107&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
