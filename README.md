@@ -1,7 +1,7 @@
 [![MasterHead](https://wollen.org/blog/wp-content/uploads/2021/04/hello_world_title3.gif)]
 <h1 align="center">Hi 👋, I'm Ayushi Aggarwal</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://wollen.org/blog/wp-content/uploads/2021/04/hello_world_title3.gif"> 
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"> 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayu0107" alt="ayu0107" /></a> </p>
 
