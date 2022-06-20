@@ -1,7 +1,7 @@
-[![MasterHead](https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif)]
+![MasterHead](https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif)
 <h1 align="center">Hi 👋, I'm Ayushi Aggarwal</h1>
 
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"> 
+<img align="right" alt="Coding" width="00" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"> 
 
 # 💫About Me :
 - 🔭  I'm currently working on Full Stack Development
