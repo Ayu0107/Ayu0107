@@ -1,9 +1,9 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif)
 <h1 align="center">Hi 👋, I'm Ayushi Aggarwal</h1>
 
-<h5 align="center">Student at Vellore Institute of Technology, Vellore, majoring in Computer Science and Business Systems.</h5>
+<h3 align="center">I am a web developer and fourth year student at Vellore Institute of Technology, Vellore, majoring in Computer Science and Business Systems.</h3>
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"> 
+<img align="right" alt="Coding" width="400" height="300" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"> 
 
 # 💫About Me :
 
@@ -12,7 +12,7 @@
 - 👯  I would be happy to collaborate on projects.
 
 
-📫 Reach out to me via <a href="https://www.linkedin.com/in/ayushi-aggarwal-938463194/">Linkedin</a> or drop me an email at **ayushiaggarwal1101@gmail.com** and I would be happy to respond.
+📫 Reach out to me via <a href="https://www.linkedin.com/in/ayushi-aggarwal-938463194/">LinkedIn</a> or drop me an email at **ayushiaggarwal1101@gmail.com** and I would be happy to respond.
 
 
 ## 🌐Connect With Me
