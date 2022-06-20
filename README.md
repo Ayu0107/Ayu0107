@@ -12,7 +12,7 @@
 - 👯  I would be happy to collaborate on projects.
 
 
-📫 Drop me an email at **ayushiaggarwal1101@gmail.com** and I would be happy to respond.
+📫 Reach out to me via <a href="https://www.linkedin.com/in/ayushi-aggarwal-938463194/">Linkedin</a> or drop me an email at **ayushiaggarwal1101@gmail.com** and I would be happy to respond.
 
 
 ## 🌐Connect With Me
