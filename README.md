@@ -1,15 +1,18 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif)
 <h1 align="center">Hi 👋, I'm Ayushi Aggarwal</h1>
 
-<img align="right" alt="Coding" width="00" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"> 
+<h5 align="center">Student at Vellore Institute of Technology, Vellore, majoring in Computer Science and Business Systems.</h5>
+
+<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"> 
 
 # 💫About Me :
-- 🔭  I'm currently working on Full Stack Development
+
+- 🔭  I'm currently working on **Full Stack Development**
 - 🌱  I’m currently learning **React**
 - 👯  I would be happy to collaborate on projects.
 
 
-- 📫 Drop me an email at **ayushiaggarwal1101@gmail.com** and I would be happy to respond.
+📫 Drop me an email at **ayushiaggarwal1101@gmail.com** and I would be happy to respond.
 
 
 ## 🌐Connect With Me
