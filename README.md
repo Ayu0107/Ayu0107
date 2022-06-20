@@ -36,10 +36,9 @@
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/css.svg" alt="css3" width="90" height="90" display="inline-block" margin="10px"/>
 
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c.svg" alt="c" width="90" height="90" display="inline-block" margin="10px"/>
+<br/>
 
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/php.png" alt="php" width="90" height="90" display="inline-block" margin="10px"/>
-
-<br/>
 
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/cloud/heroku.svg" alt="heroku" width="90" height="90" display="inline-block" margin="10px"/>
 
