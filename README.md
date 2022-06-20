@@ -11,6 +11,7 @@
 - 🌱  I’m currently learning **React**
 - 👯  I would be happy to collaborate on projects.
 
+<br/>
 
 📫 Reach out to me via <a href="https://www.linkedin.com/in/ayushi-aggarwal-938463194/">LinkedIn</a> or drop me an email at **ayushiaggarwal1101@gmail.com** and I would be happy to respond.
 
