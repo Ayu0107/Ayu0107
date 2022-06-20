@@ -3,7 +3,7 @@
 
 <h3 align="center">I am a web developer and fourth year student at Vellore Institute of Technology, Vellore, majoring in Computer Science and Business Systems.</h3>
 
-<img align="right" alt="Coding" width="400" height="300" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"> 
+<img align="right" alt="Coding" width="400" height="200" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif"> 
 
 # 💫About Me :
 
