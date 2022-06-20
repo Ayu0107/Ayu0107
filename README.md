@@ -63,8 +63,6 @@
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushiiaggarwall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushi-aggarwal-938463194) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ayushi0107) 
 
-
+![skyline](https://user-images.githubusercontent.com/62741870/174562269-23f7faea-de39-4bdf-b58c-5ae9e87f415e.png)
 
 <img width="1100" src="https://user-images.githubusercontent.com/62741870/174556394-a6cc3313-10ef-4af4-abf3-0e4f41eda38f.png">
-
-[![](![skyline](https://user-images.githubusercontent.com/62741870/174559954-49127e69-b8f7-429e-a104-9e0496b36d43.png))
