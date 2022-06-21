@@ -77,6 +77,8 @@
 <a href="https://www.leetcode.com/ayushiiaggarwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushiiaggarwall" height="40" width="60" /></a>
 </p>
 
+<br/>
+
 <img width="1100" src="https://user-images.githubusercontent.com/62741870/174569816-0b840929-9c6d-4b2d-b699-a79938743c8a.png">
 
 [![](https://visitcount.itsvg.in/api?id=ayushiiaggarwall&icon=0&color=0)](https://visitcount.itsvg.in)
