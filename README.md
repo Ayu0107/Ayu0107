@@ -3,7 +3,7 @@
 
 <h3 align="center">I am a web developer from India </h3>
 <br/>
-<p>I am a fourth year student at Vellore Institute of Technology, Vellore, majoring in Computer Science and Business Systems.</p> 
+<p align="center">I am a fourth year student at Vellore Institute of Technology, Vellore, majoring in Computer Science and Business Systems.</p> 
 
 <br/>
 
@@ -38,9 +38,10 @@
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/css.svg" alt="css3" width="90" height="90" display="inline-block" margin="10px"/>
 
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c.svg" alt="c" width="90" height="90" display="inline-block" margin="10px"/>
-<br/>
 
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/master/programming%20languages/php.png" alt="php" width="90" height="90" display="inline-block" margin="10px"/>
+
+<br/>
 
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/cloud/heroku.svg" alt="heroku" width="90" height="90" display="inline-block" margin="10px"/>
 
@@ -68,6 +69,12 @@
 <br/>
 
 # 🌐 Connect With Me
+
+a href="https://twitter.com/ayushi0107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushi0107" height="60" width="80" /></a>
+<a href="https://linkedin.com/in/ayushiiaggarwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushi-aggarwal-938463194" height="60" width="80" /></a>
+<a href="https://instagram.com/ayushiiaggarwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushiiaggarwall" height="60" width="80" /></a>
+<a href="https://www.hackerrank.com/ayushiiaggarwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushiiaggarwall" height="60" width="80" /></a>
+<a href="https://www.leetcode.com/ayushiiaggarwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushiiaggarwall" height="60" width="80" /></a>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushiiaggarwall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushi-aggarwal-938463194) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ayushi0107) 
 
