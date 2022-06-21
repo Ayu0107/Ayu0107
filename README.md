@@ -1,5 +1,5 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif)
-<h1 align="center">Namaste(नमस्ते) , "hand": "https://github.githubassets.com/images/icons/emoji/unicode/270b.png?v8",I'm Ayushi Aggarwal</h1>
+<h1 align="center">Namaste(नमस्ते) 🙏,I'm Ayushi Aggarwal</h1>
 
 <h3 align="center">I am a web developer from India </h3>
 <br/>
@@ -7,7 +7,7 @@
 
 <br/>
 
-# 💫About Me :
+# 💫 About Me :
 
 <img align="right" alt="Coding" width="400" height="200" src="https://cdn.dribbble.com/users/17707/screenshots/2413754/rrr.gif">
 
@@ -21,7 +21,7 @@
 
 <br/>
 
-# 💻Languages and Tools
+# 💻 Languages and Tools
 
 <span float="center" margin="20px">
 
@@ -31,7 +31,7 @@
 
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/javascript.svg" alt="javascript" width="90" height="90" display="inline-block" margin="10px"/>
 
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/java.svg" alt="java" width="90" height="90" display="inline-block" margin="10px"/>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="90" height="90" display="inline-block" margin="10px"/>
 
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/html.svg" alt="html5" width="90" height="90" display="inline-block" margin="10px"/>
 
@@ -52,20 +52,22 @@
 
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/databases/mysql.svg" alt="mysql" width="90" height="90" display="inline-block" margin="10px"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="90" height="90" style="display:inline-block; margin:10px;"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="90" height="90" style="display:inline-block margin:10px;"/>
+
+<img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vs code" width="90" height="90" style="display:inline-block margin:10px;"/>  
 
 </span>
 
 <br/>
 
-# 📊GitHub Stats :
+# 🏆 GitHub Stats :
 ![](https://github-readme-stats.vercel.app/api?username=ayushiiaggarwall&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ayushiiaggarwall&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushiiaggarwall&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 <br/>
 
-# 🌐Connect With Me
+# 🌐 Connect With Me
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushiiaggarwall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushi-aggarwal-938463194) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ayushi0107) 
 
