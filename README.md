@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif)
 <h1 align="center">Namaste(नमस्ते) 🙏,I'm Ayushi Aggarwal</h1>
 
-<h3 align="center">I am a web developer from India ❤️</h3>
+<h3 align="center">I am a web developer from India </h3>
 <br/>
 <p align="center">I am a fourth year student at Vellore Institute of Technology, Vellore, majoring in Computer Science and Business Systems.</p> 
 
@@ -23,7 +23,7 @@
 
 # 💻 Languages and Tools
 
-<span float="center" margin="20px">
+<p align="center">
 
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c%2B%2B.svg" alt="cplusplus" width="90" height="90" display="inline-block" margin="10px"/>
 
@@ -57,7 +57,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vs code" width="90" height="90" style="display:inline-block margin:10px;"/>  
 
-</span>
+</p>
 
 <br/>
 
@@ -70,12 +70,13 @@
 
 # 🌐 Connect With Me
 
+<p align="center">
 <a href="https://twitter.com/ayushi0107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushi0107" height="60" width="80" /></a>
 <a href="https://linkedin.com/in/ayushiiaggarwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushi-aggarwal-938463194" height="60" width="80" /></a>
 <a href="https://instagram.com/ayushiiaggarwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushiiaggarwall" height="60" width="80" /></a>
 <a href="https://www.hackerrank.com/ayushiiaggarwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushiiaggarwall" height="60" width="80" /></a>
 <a href="https://www.leetcode.com/ayushiiaggarwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushiiaggarwall" height="60" width="80" /></a>
-
+</p>
 
 <img width="1100" src="https://user-images.githubusercontent.com/62741870/174569816-0b840929-9c6d-4b2d-b699-a79938743c8a.png">
 
