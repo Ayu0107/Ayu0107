@@ -2,7 +2,6 @@
 <h1 align="center">Namaste(नमस्ते) 🙏,I'm Ayushi Aggarwal</h1>
 
 <h3 align="center">I am a web developer from India </h3>
-<br/>
 <p align="center">I am a fourth year student at Vellore Institute of Technology, Vellore, majoring in Computer Science and Business Systems.</p> 
 
 <br/>
