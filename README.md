@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif)
 <h1 align="center">Namaste(नमस्ते) 🙏,I'm Ayushi Aggarwal</h1>
 
-<h3 align="center">I am a web developer from India </h3>
+<h3 align="center">I am a web developer from India ❤️</h3>
 <br/>
 <p align="center">I am a fourth year student at Vellore Institute of Technology, Vellore, majoring in Computer Science and Business Systems.</p> 
 
@@ -70,13 +70,12 @@
 
 # 🌐 Connect With Me
 
-a href="https://twitter.com/ayushi0107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushi0107" height="60" width="80" /></a>
+<a href="https://twitter.com/ayushi0107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushi0107" height="60" width="80" /></a>
 <a href="https://linkedin.com/in/ayushiiaggarwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushi-aggarwal-938463194" height="60" width="80" /></a>
 <a href="https://instagram.com/ayushiiaggarwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushiiaggarwall" height="60" width="80" /></a>
 <a href="https://www.hackerrank.com/ayushiiaggarwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushiiaggarwall" height="60" width="80" /></a>
 <a href="https://www.leetcode.com/ayushiiaggarwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushiiaggarwall" height="60" width="80" /></a>
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ayushiiaggarwall) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ayushi-aggarwal-938463194) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ayushi0107) 
 
 <img width="1100" src="https://user-images.githubusercontent.com/62741870/174569816-0b840929-9c6d-4b2d-b699-a79938743c8a.png">
 
