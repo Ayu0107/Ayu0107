@@ -71,11 +71,11 @@
 # 🌐 Connect With Me
 
 <p align="center">
-<a href="https://twitter.com/ayushi0107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushi0107" height="60" width="80" /></a>
-<a href="https://linkedin.com/in/ayushiiaggarwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushi-aggarwal-938463194" height="60" width="80" /></a>
-<a href="https://instagram.com/ayushiiaggarwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushiiaggarwall" height="60" width="80" /></a>
-<a href="https://www.hackerrank.com/ayushiiaggarwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushiiaggarwall" height="60" width="80" /></a>
-<a href="https://www.leetcode.com/ayushiiaggarwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushiiaggarwall" height="60" width="80" /></a>
+<a href="https://twitter.com/ayushi0107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ayushi0107" height="40" width="60" /></a>
+<a href="https://linkedin.com/in/ayushiiaggarwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ayushi-aggarwal-938463194" height="40" width="60" /></a>
+<a href="https://instagram.com/ayushiiaggarwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ayushiiaggarwall" height="40" width="60" /></a>
+<a href="https://www.hackerrank.com/ayushiiaggarwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="ayushiiaggarwall" height="40" width="60" /></a>
+<a href="https://www.leetcode.com/ayushiiaggarwall" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ayushiiaggarwall" height="40" width="60" /></a>
 </p>
 
 <img width="1100" src="https://user-images.githubusercontent.com/62741870/174569816-0b840929-9c6d-4b2d-b699-a79938743c8a.png">
