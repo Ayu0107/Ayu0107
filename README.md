@@ -1,4 +1,4 @@
-<img width="1100" height="400" src="https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif">
+<img width="1100" height="400" src="hello world.jpg">
 
 <h1 align="center">Namaste (नमस्ते) 🙏, I'm Ayushi Aggarwal</h1>
 
