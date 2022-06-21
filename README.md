@@ -1,7 +1,9 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif)
-<h1 align="center">Hi 👋, I'm Ayushi Aggarwal</h1>
+<h1 align="center">Namaste(नमस्ते) , "hand": "https://github.githubassets.com/images/icons/emoji/unicode/270b.png?v8",I'm Ayushi Aggarwal</h1>
 
-<h3 align="center">I am a web developer and fourth year student at Vellore Institute of Technology, Vellore, majoring in Computer Science and Business Systems.</h3> 
+<h3 align="center">I am a web developer from India </h3>
+<br/>
+<p>I am a fourth year student at Vellore Institute of Technology, Vellore, majoring in Computer Science and Business Systems.</p> 
 
 <br/>
 
