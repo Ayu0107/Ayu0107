@@ -43,7 +43,7 @@
 
 <br/>
 
-<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/cloud/heroku.svg" alt="heroku" width="90" height="90" display="inline-block" margin="10px"/>
+<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="90" height="90" display="inline-block" margin="10px"/>
 
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/boostrap.svg" alt="bootstrap" width="90" height="90" display="inline-block" margin="10px"/>
 
