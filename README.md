@@ -33,9 +33,9 @@
 
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="90" height="90" display="inline-block" margin="10px"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="90" height="90" display="inline-block" margin="10px"/>
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/html.svg" alt="html5" width="90" height="90" display="inline-block" margin="10px"/>
 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="90" height="90" display="inline-block" margin="10px"/>
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/others/css.svg" alt="css3" width="90" height="90" display="inline-block" margin="10px"/>
 
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/programming%20languages/c.svg" alt="c" width="90" height="90" display="inline-block" margin="10px"/>
 
@@ -43,7 +43,7 @@
 
 <br/>
 
-<img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="90" height="90" display="inline-block" margin="10px"/>
+<img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/cloud/heroku.svg" alt="heroku" width="90" height="90" display="inline-block" margin="10px"/>
 
 <img src="https://raw.githubusercontent.com/yurijserrano/Github-Profile-Readme-Logos/f994c418a134b58c4aec11152f6a4a33fa89da26/frameworks/boostrap.svg" alt="bootstrap" width="90" height="90" display="inline-block" margin="10px"/>
 
@@ -83,4 +83,3 @@
 <img width="1100" src="https://user-images.githubusercontent.com/62741870/174569816-0b840929-9c6d-4b2d-b699-a79938743c8a.png">
 
 [![](https://visitcount.itsvg.in/api?id=ayushiiaggarwall&icon=0&color=0)](https://visitcount.itsvg.in)
-
