@@ -1,7 +1,7 @@
 ![MasterHead](https://miro.medium.com/max/1400/1*jB76MLZjiNhGSQQvxm7LSQ.gif)
-<h1 align="center">Namaste(नमस्ते) 🙏,I'm Ayushi Aggarwal</h1>
+<h1 align="center">Namaste (नमस्ते) 🙏, I'm Ayushi Aggarwal</h1>
 
-<h3 align="center">I am a web developer from India </h3>
+<h3 align="center">I am a web developer from India ❤️</h3>
 <p align="center">I am a fourth year student at Vellore Institute of Technology, Vellore, majoring in Computer Science and Business Systems.</p> 
 
 <br/>
