@@ -55,7 +55,7 @@
 
 <img src="https://upload.wikimedia.org/wikipedia/commons/3/33/Figma-logo.svg" alt="figma" width="90" height="90" style="display:inline-block margin:10px;"/>
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/0/09/Wordpress-Logo.svg" alt="wordpress" width="90" height="90" style="display:inline-block margin:10px;"/>
+<img src="https://cdn.worldvectorlogo.com/logos/wordpress-blue.svg" alt="wordpress" width="90" height="90" style="display:inline-block margin:10px;"/>
   
 <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" alt="vs code" width="90" height="90" style="display:inline-block margin:10px;"/>  
 
